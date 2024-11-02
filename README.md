@@ -1,4 +1,4 @@
-# Robotic Path Tracking with Q-Learning and SARSA
+# Robotic Path Tracking with Reinforcement Learningv (Q-Learning and SARSA)
 
 This project focuses on robotic path tracking using reinforcement learning algorithms, specifically Q-Learning and SARSA. The goal is to enable an autonomous agent to navigate a grid-based environment, avoid obstacles, and reach a specified goal.
 
